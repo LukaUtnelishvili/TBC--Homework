@@ -12,5 +12,5 @@ elif a == 6:
 elif a == 10:
     print("2 , 5. explanation : 10 is divided by 2 and  5. 2 and 5 are prime numbers")    
 else :
-    print("false")
+    print("false, Enter the number between 2 and 10")
     
