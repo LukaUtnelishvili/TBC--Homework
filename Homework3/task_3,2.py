@@ -7,3 +7,4 @@ datetime.date.today
 birthday_day = birthday.strftime("%A")
 print("You was born on", birthday_day)
 
+
