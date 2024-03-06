@@ -6,7 +6,7 @@ if 0<=n<20:
     print(1)
    else:
     c=[0,1]
-    for i in range(2,n):
+    for i in range(2,n+1):
       c.append(c[-1]+c[-2])
       print(c)
       
